@@ -16,9 +16,12 @@ app.get("/", (req, res) => {
 });
 app.use(cors({
 
-  origin: "http://localhost:5173",
+  origin: [
+    "http://localhost:5173",
+    "https://jobportal-2-5jcg.onrender.com"
+  ],
 
-  credentials: true,
+  credentials: true
 
 }));
 
