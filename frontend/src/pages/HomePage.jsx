@@ -354,7 +354,7 @@ useEffect(() => {
 
           <h1
             style={{
-              fontSize: "72px",
+              fontSize: "56px",
               fontWeight: "770",
               lineHeight: "1.05",
               color: "#0f172a",
@@ -470,7 +470,7 @@ useEffect(() => {
                   <div
                     style={{
 
-                      fontSize: "72px",
+                      fontSize: "56px",
 
                     }}
                   >
@@ -558,7 +558,7 @@ useEffect(() => {
           <h2
             style={{
               margin: 0,
-              fontSize: "42px",
+              fontSize: "32px",
               color: "#2563eb",
             }}
           >
@@ -1127,7 +1127,7 @@ useEffect(() => {
 
     <h2
       style={{
-        fontSize: "54px",
+        fontSize: "40px",
         margin: 0,
         marginBottom: "18px",
       }}
